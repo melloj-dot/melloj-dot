@@ -16,7 +16,7 @@
 ##### I'm learning
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white&style=flat-square)
 
-![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-React.js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 
 
 
