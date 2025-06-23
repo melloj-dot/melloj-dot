@@ -14,8 +14,9 @@
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
 
 ##### I'm learning
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
-![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 
