@@ -14,7 +14,7 @@
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
 
 ##### I'm learning
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white&style=flat-square)
 
 ![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
